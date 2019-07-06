@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Hansi Alice Singh"
-  avatar           : "/images/Singh-headshot.png"
+  avatar           : ![Hansi Singh](/images/Singh-headshot.png)
   bio              : "Coupled Climate Dynamics, High-latitude Climates, Applied Mathematics"
   location         : "Victoria, BC Canada"
   employer         : "SEOS, University of Victoria"
