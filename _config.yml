@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Hansi Alice Singh"
-  avatar           : "Singh-headshot.jpg"
+  avatar           : "/images/Singh-headshot.jpg"
   bio              : "Coupled Climate Dynamics, Polar Climate, Applied Mathematics"
   location         : "Victoria, BC Canada"
   employer         : "School of Earth and Ocean Sciences, University of Victoria"
@@ -93,7 +93,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
+  flickr           : "hansigurumi"
   facebook         :
   foursquare       :
   github           : "hansialice"
