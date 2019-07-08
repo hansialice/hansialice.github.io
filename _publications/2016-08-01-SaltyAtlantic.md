@@ -1,0 +1,13 @@
+---
+title: "Greater aerial moisture transport distances with warming amplify interbasin salinity contrasts"
+collection: publications
+permalink: /publication/2016-08-01-SaltyAtlantic
+excerpt: '<i>Abstract:</i> The distance atmospheric moisture travels is fundamental to Earth’s hydrologic cycle, governing how much evaporation is exported versus precipitated locally. The present-day tropical Atlantic is one region that exports much locally evaporated moisture away, leading to more saline surface waters in the Atlantic compared to the Indo-Pacific at similar latitudes. Here we use a state-of-the-art global climate model equipped with numerical water tracers to show that over half of the atmospheric freshwater exported from the Atlantic originates as evaporation in the northern Atlantic subtropics, primarily between 10∘N and 20∘N, and is transported across Central America via prevailing easterlies into the equatorial Pacific. We find enhanced moisture export from the Atlantic to Pacific with warming is due to greater distances between moisture source and sink regions, which increases moisture export from the Atlantic at the expense of local precipitation. Distance traveled increases due to longer moisture residence times, not simply Clausius-Clapeyron scaling.'
+date: 2016-08-01
+venue: 'Geophysical Research Letters'
+citation: 'Singh HKA, Donohoe A, Bitz CM, Nusbaumer J, and Noone DC. (2016). &quot;Greater aerial moisture transport distances with warming amplify interbasin salinity contrasts.&quot; <i>Geophysical Research Letters</i>. 43: pp 8677-8684.'
+---
+
+<i>Abstract:</i> The distance atmospheric moisture travels is fundamental to Earth’s hydrologic cycle, governing how much evaporation is exported versus precipitated locally. The present-day tropical Atlantic is one region that exports much locally evaporated moisture away, leading to more saline surface waters in the Atlantic compared to the Indo-Pacific at similar latitudes. Here we use a state-of-the-art global climate model equipped with numerical water tracers to show that over half of the atmospheric freshwater exported from the Atlantic originates as evaporation in the northern Atlantic subtropics, primarily between 10∘N and 20∘N, and is transported across Central America via prevailing easterlies into the equatorial Pacific. We find enhanced moisture export from the Atlantic to Pacific with warming is due to greater distances between moisture source and sink regions, which increases moisture export from the Atlantic at the expense of local precipitation. Distance traveled increases due to longer moisture residence times, not simply Clausius-Clapeyron scaling.
+
+[Download paper here](http://hansialice.github.io/files/GRL-SinghEtAl2016-SaltyAtlantic.pdf)
