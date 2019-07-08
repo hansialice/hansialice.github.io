@@ -1,0 +1,13 @@
+---
+title: "On the Relative Roles of the Atmosphere and Ocean in the Atlantic Multidecadal Variability"
+collection: publications
+permalink: /publication/2018-09-01-AMVpartial
+excerpt: '<i>Abstract:</i> The relative roles of the ocean and atmosphere in driving the Atlantic multidecadal variability (AMV) are investigated by isolating anomalous sea surface temperature (SST) components forced by anomalous surface heat fluxes and ocean dynamics in fully and partially coupled simulations. The impact of the ocean dynamics-forced SST on air-sea interaction is disabled in the partially coupled simulation in order to isolate the atmosphere-forced variability. The atmosphere-forced AMV component shows weak but significant variability on interdecadal timescales (10- to 30-year periods), while the ocean-forced component exhibits a strong multidecadal variability (25- to 50-year periods). When coupled to the atmosphere, this ocean-forced variability weakens and is imprinted on the coupled surface heat fluxes that further act to damp the ocean-forced SST variability, causing a much weaker fully coupled AMV. Our results suggest that the AMV is largely driven by ocean circulation variability, but its power is also affected by the strength of air-sea coupling.'
+date: 2018-02-01
+venue: 'Geophysical Research Letters'
+citation: 'Garuba OA, Lu J, Singh HA, Liu F, Rasch PJ. (2018). &quot;On the Relative Roles of the Atmosphere and Ocean in the Atlantic Multidecadal Variability.&quot; <i>Geophysical Research Letters</i>. 45: pp 9186–9196.'
+---
+
+<i>Abstract:</i> The relative roles of the ocean and atmosphere in driving the Atlantic multidecadal variability (AMV) are investigated by isolating anomalous sea surface temperature (SST) components forced by anomalous surface heat fluxes and ocean dynamics in fully and partially coupled simulations. The impact of the ocean dynamics-forced SST on air-sea interaction is disabled in the partially coupled simulation in order to isolate the atmosphere-forced variability. The atmosphere-forced AMV component shows weak but significant variability on interdecadal timescales (10- to 30-year periods), while the ocean-forced component exhibits a strong multidecadal variability (25- to 50-year periods). When coupled to the atmosphere, this ocean-forced variability weakens and is imprinted on the coupled surface heat fluxes that further act to damp the ocean-forced SST variability, causing a much weaker fully coupled AMV. Our results suggest that the AMV is largely driven by ocean circulation variability, but its power is also affected by the strength of air-sea coupling.
+
+[Download paper here](http://hansialice.github.io/files/GRL-GarubaEtAl2018-AMVpartial.pdf)
