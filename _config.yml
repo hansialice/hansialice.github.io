@@ -155,6 +155,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Conversion
 markdown: kramdown
+theme: jekyll-theme-cayman
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
@@ -309,5 +310,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-theme: jekyll-theme-cayman
