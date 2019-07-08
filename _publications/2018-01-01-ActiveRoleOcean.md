@@ -1,0 +1,13 @@
+---
+title: "The Active Role of the Ocean in the Temporal Evolution of Climate Sensitivity"
+collection: publications
+permalink: /publication/2018-01-01-ActiveRoleOcean
+excerpt: '<i>Abstract:</i>  The temporal evolution of the effective climate sensitivity is shown to be influenced by the changing pattern of sea surface temperature (SST) and ocean heat uptake (OHU), which in turn have been attributed to ocean circulation changes. A set of novel experiments are performed to isolate the active role of the ocean by comparing a fully coupled CO2 quadrupling community Earth System Model (CESM) simulation against a partially coupled one, where the effect of the ocean circulation change and its impact on surface fluxes are disabled. The active OHU is responsible for the reduced effective climate sensitivity and weaker surface warming response in the fully coupled simulation. The passive OHU excites qualitatively similar feedbacks to CO2 quadrupling in a slab ocean model configuration due to the similar SST spatial pattern response in both experiments. Additionally, the nonunitary forcing efficacy of the active OHU (1.7) explains the very different net feedback parameters in the fully and partially coupled responses.'
+date: 2018-01-01
+venue: 'Geophysical Research Letters'
+citation: 'Garuba OA, Lu J, Liu F, Singh HA. (2018). &quot;The Active Role of the Ocean in the Temporal Evolution of Climate Sensitivity.&quot; <i>Geophysical Research Letters</i>. 45: pp 306–315.'
+---
+
+<i>Abstract:</i>  The temporal evolution of the effective climate sensitivity is shown to be influenced by the changing pattern of sea surface temperature (SST) and ocean heat uptake (OHU), which in turn have been attributed to ocean circulation changes. A set of novel experiments are performed to isolate the active role of the ocean by comparing a fully coupled CO2 quadrupling community Earth System Model (CESM) simulation against a partially coupled one, where the effect of the ocean circulation change and its impact on surface fluxes are disabled. The active OHU is responsible for the reduced effective climate sensitivity and weaker surface warming response in the fully coupled simulation. The passive OHU excites qualitatively similar feedbacks to CO2 quadrupling in a slab ocean model configuration due to the similar SST spatial pattern response in both experiments. Additionally, the nonunitary forcing efficacy of the active OHU (1.7) explains the very different net feedback parameters in the fully and partially coupled responses.
+
+[Download paper here](http://hansialice.github.io/files/GRL-GarubaEtAl2018-ActiveRoleOcean.pdf)
