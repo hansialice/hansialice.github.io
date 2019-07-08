@@ -13,7 +13,7 @@ name                     : &name "Hansi Singh"
 description              : &description "Hansi Singh's Academic Website"
 url                      : https://hansialice.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "hansialice/hansialice.github.io"
 teaser                   : "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -84,7 +84,7 @@ author:
   avatar           : "Singh-headshot.png"
   bio              : "Coupled Climate Dynamics, High-latitude Climates, Applied Mathematics"
   location         : "Victoria, BC Canada"
-  employer         : "SEOS, University of Victoria"
+  employer         : "SEOS, U Victoria"
   pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?user=qjTv2T8AAAAJ&hl=en"
   email            : "hansingh@uvic.ca"
