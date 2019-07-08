@@ -10,9 +10,9 @@ redirect_from:
 
 I am an Assistant Professor in the [School of Earth and Ocean Sciences](https://www.uvic.ca/science/seos/index.php) at the [University of Victoria](https://www.uvic.ca) on beautiful [Vancouver Island](https://vancouverisland.travel) in the province of British Columbia.
 
-I research the physical climate system, particularly the myriad of interactions between atmosphere, ocean, and ice that give rise to the Earth's climate.  I am especially interested in the ever-evolving climate of the polar regions, both Antarctic and Arctic, as well as the large-scale transport of atmospheric water from equator to pole.
+I research the [physical climate system](https://www.nature.com/scitable/knowledge/library/the-global-climate-system-74649049), particularly the myriad of interactions between atmosphere, ocean, and ice that give rise to the Earth's climate.  I am especially interested in the ever-evolving climate of the polar regions, both Antarctic and Arctic, as well as the large-scale transport of atmospheric water from equator to pole.
 
-I am looking for graduate students!  If you enjoy physics and mathematics, and are interested in applying these to study of the Earth's climate system, I want to talk to you.  Please get in touch.
+I am looking for graduate students!  If you enjoy physics and mathematics, and are interested in applying these to study of the Earth's climate system, I want to talk to you.  Please get in touch: hansingh (at) uvic (dot) ca.
 
 <!---
 ======
