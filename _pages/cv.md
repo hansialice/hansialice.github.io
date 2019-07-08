@@ -9,32 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
+[My CV in PDF form.](/files/CV_Singh_062019.pdf)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Atmospheric Sciences, University of Washington, 2016
+* M.S. in Applied Mathematics, University of Washington, 2016
+* B.A. in Physics, Rice University, Houston TX USA, 2000
 
-Work experience
+Honors
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Linus Pauling Distinguished Postdoctoral Fellowship, Pacific Northwest National Laboratory, US Department of Energy Office of Science, 2016-2019.
+* US Department of Energy Computational Science Graduate Fellowship, 2011-2015.
 
 Publications
 ======
@@ -46,12 +32,6 @@ Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
