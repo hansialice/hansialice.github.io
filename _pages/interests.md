@@ -21,12 +21,12 @@ These different climate responses over the Arctic and Antarctic give rise to sev
 The atmosphere, ocean, and ice interact with each other and evolve over a range of spatial and temporal scales.  
 
 
-## The Aerial Hydrologic Cycle
+### The Aerial Hydrologic Cycle
 The atmosphere moves water, in the form of vapor or cloud, from equator to pole.  
 
 
 
-## The Ocean's Role in Climate
+### The Ocean's Role in Climate
 The Earth is an ocean planet -- over 70% of the planet's surface is covered in water.  
 
 <!---
