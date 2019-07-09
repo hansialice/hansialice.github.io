@@ -28,8 +28,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Talks (Selected)
 ======
+For a list of all my talks and presentations, please see [my full CV (PDF).](https://hansialice.github.io/files/Singh_CV_062019.pdf)
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
