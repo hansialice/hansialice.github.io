@@ -1,11 +1,11 @@
 ---
-permalink: /
+layout: archive
 title: "Research Interests"
-excerpt: ""
+permalink: /interests/
 author_profile: true
-redirect_from: 
-  - /interests/
+redirect_from:
   - /interests.html
+  - /research.html
 ---
 
 Polar Climates
