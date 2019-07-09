@@ -5,7 +5,7 @@ permalink: /interests/
 author_profile: true
 ---
 
-### Polar Climates
+## <i>Polar Climates</i>
 Polar climates are dynamic and ever-changing.  Throughout Earth's history, the largest climatic changes have occurred over high latitudes, with conditions ranging from frigid and ice-covered (as during the last glacial period) to balmy and ice-free (as during the Eocene, when crocodiles and palms could be found in the Arctic circle).  Amidst today's changing climate, the Arctic has warmed nearly three times as much as the rest of the globe, and Arctic summer sea ice cover will likely disappear before mid-century.  On the other hand, climate change has been much weaker over the Antarctic, and more mixed: the Antarctic peninsula and the Southern Ocean (at depth) have warmed, but much of the Antarctic ice sheet has not warmed appreciably; Antarctic sea ice area has not definitively declined below its preindustrial mean, and the East Antarctic Ice Sheet may be gaining mass.
 
 
@@ -17,18 +17,18 @@ These different climate responses over the Arctic and Antarctic give rise to sev
 * How important are dynamic processes, particularly poleward energy transport by the atmosphere and ocean, in polar climate change?
 
 
-### Coupled Atmosphere-Ocean-Ice Dynamics
+## <i>Coupled Atmosphere-Ocean-Ice Dynamics</i>
 The atmosphere, ocean, and ice interact with each other and evolve over a range of spatial and temporal scales.  
 
 * To what extent does coupling between the atmosphere and ocean impact the climate change response?
 
-### The Aerial Hydrologic Cycle
+## <i>The Aerial Hydrologic Cycle</i>
 The atmosphere moves water, in the form of vapor or cloud, from equator to pole.  One way to study how water moves through this aerial hydrologic cycle is through numerical water tracers, which allow water to be followed from its source region, through phase changes and movement by winds, to the point where it precipitates to the surface.  Studies using such water tracing methods show that 
 * How does the vertical distribution of temperature and moisture determine how the atmosphere 
 * What are the implications for interpretation of water isotopes?
 
 
-### The Ocean's Role in Climate
+## <i>The Ocean's Role in Climate</i>
 The Earth is an ocean planet -- over 70% of our planet's surface is covered in water.  The enormous heat capacity of ocean water moderates surface temperature fluctuations, while the movement of heat poleward by ocean currents decreases equator-to-pole temperature gradients and warms the surface temperature.  If the latter ocean currents were to stop, climate models predict that the Earth would rapidly become ice-covered.  
 
 <!---
