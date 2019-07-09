@@ -20,14 +20,16 @@ These different climate responses over the Arctic and Antarctic give rise to sev
 ### Coupled Atmosphere-Ocean-Ice Dynamics
 The atmosphere, ocean, and ice interact with each other and evolve over a range of spatial and temporal scales.  
 
+* To what extent does coupling between the atmosphere and ocean impact the climate change response?
 
 ### The Aerial Hydrologic Cycle
-The atmosphere moves water, in the form of vapor or cloud, from equator to pole.  
-
+The atmosphere moves water, in the form of vapor or cloud, from equator to pole.  One way to study how water moves through this aerial hydrologic cycle is through numerical water tracers, which allow water to be followed from its source region, through phase changes and movement by winds, to the point where it precipitates to the surface.  Studies using such water tracing methods show that 
+* How does the vertical distribution of temperature and moisture determine how the atmosphere 
+* What are the implications for interpretation of water isotopes?
 
 
 ### The Ocean's Role in Climate
-The Earth is an ocean planet -- over 70% of the planet's surface is covered in water.  
+The Earth is an ocean planet -- over 70% of our planet's surface is covered in water.  The enormous heat capacity of ocean water moderates surface temperature fluctuations, while the movement of heat poleward by ocean currents decreases equator-to-pole temperature gradients and warms the surface temperature.  If the latter ocean currents were to stop, climate models predict that the Earth would rapidly become ice-covered.  
 
 <!---
 ======
