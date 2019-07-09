@@ -3,6 +3,7 @@ layout: archive
 title: "Research Interests"
 permalink: /interests/
 redirect_from:
+  - /interests
   - /interests.html
   - /research.html
 ---
