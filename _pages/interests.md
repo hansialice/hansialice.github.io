@@ -5,20 +5,28 @@ permalink: /interests/
 author_profile: true
 ---
 
-Polar Climates
----
+## Polar Climates
+Polar climates are dynamic and ever-changing.  Throughout Earth's history, the largest climatic changes have occurred over high latitudes, with conditions ranging from frigid and ice-covered (as during the last glacial period) to balmy and ice-free (as during the Eocene, when crocodiles and palms could be found in the Arctic circle).  Amidst today's changing climate, the Arctic has warmed nearly three times as much as the rest of the globe, and Arctic summer sea ice cover will likely disappear before mid-century.  On the other hand, climate change has been much weaker over the Antarctic, and much more mixed: the Antarctic peninsula and the Southern Ocean (at depth) have warmed, while much of the Antarctic ice sheet has not warmed appreciably; Antarctic sea ice area has not definitively declined below its preindustrial mean, and the East Antarctic Ice Sheet may be gaining mass.
 
 
-Coupled Atmosphere-Ocean-Ice Dynamics
----
+Differences between the climate responses over the Arctic and Antarctic elicit several interesting research questions:
+* What high-latitude processes elicit rapid warming over the Arctic, and how do these processes differ over the Antarctic?
+* What is the relationship between interannual natural variability over the high latitudes, and their forced response?
+* Which pole, the Arctic or Antarctic, exhibits a more 'typical' polar climate response to a forcing?
 
 
-The Aerial Hydrologic Cycle
----
+
+## Coupled Atmosphere-Ocean-Ice Dynamics
+The atmosphere, ocean, and ice interact with each other and evolve over a range of spatial and temporal scales.  
 
 
-The Role of the Ocean in Climate Sensitivity
----
+## The Aerial Hydrologic Cycle
+The atmosphere moves water, in the form of vapor or cloud, from equator to pole.  
+
+
+
+## The Ocean's Role in Climate
+
 
 <!---
 ======
