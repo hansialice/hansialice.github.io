@@ -5,18 +5,19 @@ permalink: /interests/
 author_profile: true
 ---
 
-## Polar Climates
-Polar climates are dynamic and ever-changing.  Throughout Earth's history, the largest climatic changes have occurred over high latitudes, with conditions ranging from frigid and ice-covered (as during the last glacial period) to balmy and ice-free (as during the Eocene, when crocodiles and palms could be found in the Arctic circle).  Amidst today's changing climate, the Arctic has warmed nearly three times as much as the rest of the globe, and Arctic summer sea ice cover will likely disappear before mid-century.  On the other hand, climate change has been much weaker over the Antarctic, and much more mixed: the Antarctic peninsula and the Southern Ocean (at depth) have warmed, while much of the Antarctic ice sheet has not warmed appreciably; Antarctic sea ice area has not definitively declined below its preindustrial mean, and the East Antarctic Ice Sheet may be gaining mass.
+### Polar Climates
+Polar climates are dynamic and ever-changing.  Throughout Earth's history, the largest climatic changes have occurred over high latitudes, with conditions ranging from frigid and ice-covered (as during the last glacial period) to balmy and ice-free (as during the Eocene, when crocodiles and palms could be found in the Arctic circle).  Amidst today's changing climate, the Arctic has warmed nearly three times as much as the rest of the globe, and Arctic summer sea ice cover will likely disappear before mid-century.  On the other hand, climate change has been much weaker over the Antarctic, and more mixed: the Antarctic peninsula and the Southern Ocean (at depth) have warmed, but much of the Antarctic ice sheet has not warmed appreciably; Antarctic sea ice area has not definitively declined below its preindustrial mean, and the East Antarctic Ice Sheet may be gaining mass.
 
 
-Differences between the climate responses over the Arctic and Antarctic elicit several interesting research questions:
+These different climate responses over the Arctic and Antarctic give rise to several interesting research questions:
 * What high-latitude processes elicit rapid warming over the Arctic, and how do these processes differ over the Antarctic?
-* What is the relationship between interannual natural variability over the high latitudes, and their forced response?
-* Which pole, the Arctic or Antarctic, exhibits a more 'typical' polar climate response to a forcing?
+* What is the relationship between natural variability over the Arctic and Antarctic, and how these regions respond to CO2 forcing?
+* Which pole, the Arctic or Antarctic, exhibits a more 'typical' polar climate response to greenhouse gas forcing?  Moreover, is 'polar amplification', greater climate change over the high latitudes than elsewhere, a robust forced response?
+* What role, if any, does ocean heat uptake over the Southern Ocean play in Antarctic sea ice evolution and Antarctic surface temperature change?
+* How important are dynamic processes, particularly poleward energy transport by the atmosphere and ocean, in polar climate change?
 
 
-
-## Coupled Atmosphere-Ocean-Ice Dynamics
+### Coupled Atmosphere-Ocean-Ice Dynamics
 The atmosphere, ocean, and ice interact with each other and evolve over a range of spatial and temporal scales.  
 
 
@@ -26,7 +27,7 @@ The atmosphere moves water, in the form of vapor or cloud, from equator to pole.
 
 
 ## The Ocean's Role in Climate
-
+The Earth is an ocean planet -- over 70% of the planet's surface is covered in water.  
 
 <!---
 ======
