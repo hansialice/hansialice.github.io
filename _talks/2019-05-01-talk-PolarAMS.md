@@ -1,8 +1,8 @@
 ---
-title: "Antarctic Sea Ice Expansion, Driven by Internal Variability, Coincident with Increasing Atmospheric CO2”
+title: "Antarctic Sea Ice Expansion, Driven by Internal Variability, Coincident with Increasing Atmospheric CO2"
 collection: talks
 type: "Talk"
-permalink: /talks/2019-05-01-talk-4
+permalink: /talks/2019-05-01-talk-PolarAMS
 venue: "15th Conference on Polar Meteorology and Oceanography"
 date: 2019-05-01
 location: "Boulder, Colorado"
