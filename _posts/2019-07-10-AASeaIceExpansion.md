@@ -13,7 +13,7 @@ tags:
   - Southern Hemisphere
 ---
 
-Antarctic sea ice area has been a conundrum for climate scientists: why did it expand in area from 1979 (when the satellite record began) to 2015, even as the rest of the globe warmed, and Arctic sea ice area retreated to historical lows?  In my recent talk at the American Meteorological Society meeting on Polar Meteorology and Oceanography (May 2019), I presented recent work done in collaboration with [Lorenzo Polvani (Columbia University)](http://www.columbia.edu/~lmp/) and [Phil Rasch (Pacific Northwest National Laboratory, US DOE Office of Science)]() on this very topic.
+Antarctic sea ice area has been a conundrum for climate scientists: why did it expand in area from 1979 (when the satellite record began) to 2015, even as the rest of the globe warmed, and Arctic sea ice area retreated to historical lows?  In my recent talk at the American Meteorological Society meeting on Polar Meteorology and Oceanography (May 2019), I presented recent work done in collaboration with [Lorenzo Polvani (Columbia University)](http://www.columbia.edu/~lmp/) and [Phil Rasch (Pacific Northwest National Laboratory, US DOE Office of Science)](https://www.pnnl.gov/science/staff/staff_info.asp?staff_num=7237) on this very topic.
 
 <img src="https://hansialice.github.io/images/AASeaIce_Fig3_redo2_052019.png" alt="AASeaIceFig" width="600"/>
 
