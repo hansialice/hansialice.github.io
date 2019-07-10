@@ -43,8 +43,8 @@ Service and leadership
 * Chair, Session: <i>Atmospheric Circulations and their Role in the Hydrological Cycle: Monsoons, Storm Tracks, and the ITCZ</i> (I: Oral; III: Poster), AGU Fall Meeting 2015.
 * Chair, Session: <i>Polar Processes and Predictability</i> (I: Oral; II: Poster), AGU Fall Meeting 2015.
 * Manuscript Reviewer
-  * Journal of Climate (2014 to present)
-  * Climate Dynamics (2016 to present)
-  * Journal of Advances in Modeling Earth Systems (2016 to present)
-  * Nature Geoscience (2017 to present)
-  * Geophysical Research Letters (2018 to present)
+  * <i>Journal of Climate</i> (2014 to present)
+  * <i>Climate Dynamics</i> (2016 to present)
+  * <i>Journal of Advances in Modeling Earth Systems</i> (2016 to present)
+  * <i>Nature Geoscience</i> (2017 to present)
+  * <i>Geophysical Research Letters</i> (2018 to present)
