@@ -37,4 +37,14 @@ For a list of all my talks and presentations, please see [my full CV (PDF).](htt
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Chair, Session: <i>Causes, Consequences, and Predictability of Polar Change</i> (I: Oral), AGU Fall Meeting 2018.
+* Chair, Session: <i>Polar Climate: Processes and Predictability</i> (I, II: Oral; III: Poster), AGU Fall Meeting 2017.
+* Chair, Session: <i>Beyond the Interannual: Multidecadal and Centennial Time Scale Variability in the Climate System</i> (I: Oral; II: Poster), AGU Fall Meeting 2016.
+* Chair, Session: <i>Atmospheric Circulations and their Role in the Hydrological Cycle: Monsoons, Storm Tracks, and the ITCZ</i> (I: Oral; III: Poster), AGU Fall Meeting 2015.
+* Chair, Session: <i>Polar Processes and Predictability</i> (I: Oral; II: Poster), AGU Fall Meeting 2015.
+* Manuscript Reviewer
+  * Journal of Climate (2014 to present)
+  * Climate Dynamics (2016 to present)
+  * Journal of Advances in Modeling Earth Systems (2016 to present)
+  * Nature Geoscience (2017 to present)
+  * Geophysical Research Letters (2018 to present)
