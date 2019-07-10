@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2019-05-01-talk-PolarAMS
 venue: "15th Conference on Polar Meteorology and Oceanography"
-date: 2019-05-01
+date: 2019-05
 location: "Boulder, Colorado"
 ---
 
