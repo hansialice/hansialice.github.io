@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2018-12-12-talk-AGU-SeaIcePredictor
 venue: "American Geophysical Union Fall Meeting"
-date: 2019-12-12
+date: 2018-12-12
 location: "Washington, DC"
 ---
 
