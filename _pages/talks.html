@@ -7,11 +7,7 @@ author_profile: true
 
 For a comprehensive listing of the talks I've given, please [see my CV (in PDF form)](/files/Singh_CV_062019.pdf).  
 
-{% if site.talkmap_link == true %}
-
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
+{% include base_path %}
 
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
