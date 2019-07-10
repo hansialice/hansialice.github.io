@@ -1,9 +1,11 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Talks (selected)"
 permalink: /talks/
 author_profile: true
 ---
+
+For a comprehensive listing of the talks I've given, please [see my CV (in PDF form)](/files/Singh_CV_062019.pdf).  
 
 {% if site.talkmap_link == true %}
 
