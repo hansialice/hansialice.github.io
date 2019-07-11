@@ -9,13 +9,15 @@ author_profile: true
 
 Today, human actions are having a substantial impact on the environment.  Nowhere is this more evident than in the world's oceans, where acidification (due to human-induced climate change), over-fishing, and plastic pollution are threatening marine ecosystems.  The science is clear that human actions are harming the oceans; however, collective action to mitigate these harms is not yet sufficient to reverse them.  
 
-In November 2018, I participated in [All Hands on Deck](https://www.media.mit.edu/events/allhandsondeck/), an event bringing together artists, activists, scientists, entrepreneurs, actors, filmmakers, lawyers, and other ocean connoisseurs, all with a passion to increase societal engagement with the ocean, and with it, the collective will to take action on issues endangering the marine world.  
+In November 2018, I participated in [All Hands on Deck](https://www.media.mit.edu/events/allhandsondeck/), an event bringing together artists, activists, scientists, entrepreneurs, actors, filmmakers, legal experts, and other ocean connoisseurs, all with a passion to increase societal engagement with the ocean, and with it, the collective will to take action on issues endangering the marine world.  
 
 Touching others through the arts is one way to inspire such awareness and action.  For several years, one of my passions was knitting the ocean.  
 
-<img src="https://hansialice.github.io/images/OctopusGarden" />
+<img src="https://hansialice.github.io/images/OctopusGarden.jpg" width="600"/>
 
-I spoke about this passion at All Hands on Deck: how the arts can inspire change, 
+I spoke about this passion at All Hands on Deck, and, generally, how the arts can connect humans to the environment and inspire action in ways that science itself cannot.  Check out the talk below.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBPQrrOHvQ0?start=3732" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## <i>K-12 Outreach</i>
 
