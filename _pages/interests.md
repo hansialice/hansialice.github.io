@@ -7,7 +7,8 @@ author_profile: true
 
 The following topics represent some of the primary interests of my research group at the School of Earth and Ocean Sciences at the University of Victoria.  We perform much of our research on the Earth's climate using a hierarchy of mathematical models, from pencil-and-paper heuristic models to comprehensive Earth system models that are implemented on state-of-the-art supercomputers and produce terabytes of data.  In addition to modeling, we also use observational data of the Earth system to round out our research, and to provide a check on the understanding we derive through models.
 
-## <i>Polar Climates</i> <img src="https://hansialice.github.io/images/McMurdoIceberg.jpg" width="100"/>
+## <i>Polar Climates</i>
+<img src="https://hansialice.github.io/images/McMurdoIceberg.jpg" width="500"/>
 
 Polar climates are dynamic and ever-changing.  Throughout Earth's history, the largest climatic changes have occurred over high latitudes, with conditions ranging from frigid and ice-covered (as during the last glacial period) to balmy and ice-free (as during the Eocene, when crocodiles and palms could be found in the Arctic circle).  Amidst today's changing climate, the Arctic has warmed nearly three times as much as the rest of the globe, and Arctic summer sea ice cover will likely disappear before mid-century.  On the other hand, climate change has been much weaker over the Antarctic, and more mixed: the Antarctic peninsula and the Southern Ocean (at depth) have warmed, but much of the Antarctic ice sheet has not warmed appreciably; Antarctic sea ice area has not definitively declined below its preindustrial mean, and the East Antarctic Ice Sheet may be gaining mass.
 
@@ -19,7 +20,8 @@ These different climate responses over the Arctic and Antarctic give rise to sev
 * How important are dynamic processes, particularly poleward energy transport by the atmosphere and ocean, in polar climate change?  Does the importance of local versus dynamic processes vary seasonally or regionally?
 
 
-## <i>Coupled Climate Dynamics</i> <img src="https://hansialice.github.io/images/OceanCloudsISS.jpg" width="100"/>
+## <i>Coupled Climate Dynamics</i> 
+<img src="https://hansialice.github.io/images/OceanCloudsISS.jpg" width="500"/>
 
 The atmosphere, ocean, and ice interact with each other and evolve over a range of spatial and temporal scales.  Interactions between these Earth system components occur through the transfer of heat, freshwater, and momentum, and these give rise to the Earth's climate state over the largest spatial scales.  In the tropics, interactions between the atmosphere and ocean in the tropical Pacific produce El Nino events, which impacts climate globally.  Over the polar regions, interactions between atmosphere and ocean become even more complex with the intervening layer of sea ice, which impacts how energy and freshwater move between air and liquid water.  
 
@@ -31,7 +33,8 @@ The variety of processes that link these different media, and the consequences o
 * How do changes in sea ice area and its seasonality impact the coupled dynamics of the climate system?  
 
 
-## <i>The Aerial Hydrologic Cycle</i> <img src="https://hansialice.github.io/images/AntarcticIceClouds.jpg" width="100"/>
+## <i>The Aerial Hydrologic Cycle</i> 
+<img src="https://hansialice.github.io/images/AntarcticIceClouds.jpg" width="500"/>
 
 The atmosphere moves water, in the form of vapor or cloud, from equator to pole.  One way to study how water moves through this aerial hydrologic cycle is through numerical water tracers, which allow water to be followed from its source region, through phase changes and movement by winds, to the point where it precipitates to the surface.  Studies using such water tracing help elucidate the range of dynamic processes that move atmospheric water from its site of evaporation (or sublimation) and to the eventual point where it precipitates (as rain or snow).
 
@@ -43,7 +46,8 @@ Our primary research interest revolve around the consequences of atmospheric moi
 * Does the relationship between moisture source regions and high-latitude water isotopic signatures change with different mean climate states (such as during the last glacial period)?  If so, how can these changes be conceptualized in terms of atmospheric dynamics?
 
 
-## <i>The Ocean's Role in Climate</i> <img src="https://hansialice.github.io/images/PacificOcean.jpg" width="100"/>
+## <i>The Ocean's Role in Climate</i> 
+<img src="https://hansialice.github.io/images/PacificOcean.jpg" width="500"/>
 
 The Earth is an ocean planet -- over 70% of our planet's surface is covered in water.  The enormous heat capacity of ocean water moderates surface temperature fluctuations, while the movement of heat poleward by ocean currents decreases equator-to-pole temperature gradients and warms global surface temperatures, particularly in the mid- and high-latitudes.  If the latter ocean currents were to stop, many climate models predict that the Earth would rapidly become ice-covered, a climate phenomenon known as Snowball Earth.  
 
