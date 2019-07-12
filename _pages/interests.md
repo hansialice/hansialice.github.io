@@ -5,27 +5,37 @@ permalink: /interests/
 author_profile: true
 ---
 
+The following topics represent some of the primary interests of my research group at the School of Earth and Ocean Sciences at the University of Victoria.  We perform much of our research on the Earth's climate using a hierarchy of mathematical models, from pencil-and-paper heuristic models to comprehensive Earth system models that are implemented on state-of-the-art supercomputers and produce terabytes of data.    
+
 ## <i>Polar Climates</i>
+
 Polar climates are dynamic and ever-changing.  Throughout Earth's history, the largest climatic changes have occurred over high latitudes, with conditions ranging from frigid and ice-covered (as during the last glacial period) to balmy and ice-free (as during the Eocene, when crocodiles and palms could be found in the Arctic circle).  Amidst today's changing climate, the Arctic has warmed nearly three times as much as the rest of the globe, and Arctic summer sea ice cover will likely disappear before mid-century.  On the other hand, climate change has been much weaker over the Antarctic, and more mixed: the Antarctic peninsula and the Southern Ocean (at depth) have warmed, but much of the Antarctic ice sheet has not warmed appreciably; Antarctic sea ice area has not definitively declined below its preindustrial mean, and the East Antarctic Ice Sheet may be gaining mass.
 
-
-These different climate responses over the Arctic and Antarctic give rise to several interesting research questions:
+These different climate responses over the Arctic and Antarctic give rise to several interesting research questions, such as the following:
 * What high-latitude processes elicit rapid warming over the Arctic, and how do these processes differ over the Antarctic?
 * What is the relationship between natural variability over the Arctic and Antarctic, and how these regions respond to CO2 forcing?
 * Which pole, the Arctic or Antarctic, exhibits a more 'typical' polar climate response to greenhouse gas forcing?  Moreover, is 'polar amplification', greater climate change over the high latitudes than elsewhere, a robust forced response?
 * What role, if any, does ocean heat uptake over the Southern Ocean play in Antarctic sea ice evolution and Antarctic surface temperature change?
-* How important are dynamic processes, particularly poleward energy transport by the atmosphere and ocean, in polar climate change?
+* How important are dynamic processes, particularly poleward energy transport by the atmosphere and ocean, in polar climate change?  Does the importance of local versus dynamic processes vary seasonally or regionally?
 
 
-## <i>Coupled Atmosphere-Ocean-Ice Dynamics</i>
-The atmosphere, ocean, and ice interact with each other and evolve over a range of spatial and temporal scales.  
+## <i>Dynamics of the Coupled (Atmosphere-Ocean-Ice) Climate System</i>
 
-* To what extent does coupling between the atmosphere and ocean impact the climate change response?
+The atmosphere, ocean, and ice interact with each other and evolve over a range of spatial and temporal scales.  Interactions between these Earth system components occur through the transfer of heat, freshwater, and momentum, and these give rise to the Earth's climate state over the largest spatial scales.  Over the polar regions, interactions between atmosphere and ocean become even more complex with the intervening layer of sea ice, which impacts how heat, freshwater, and momentum move between air and liquid water.  
+
+The variety of processes that link these different media, and the consequences of these interactions for the Earth's climate, give rise to a variety of research questions, including the following:
+* How does coupling between the atmosphere and ocean impact the mean state climate and climate change response, and how do these impacts vary over different time scales?
+* How do interactions between the atmosphere and ocean mediate Bjerknes compensation, whereby energy transport changes in the atmosphere are countered by opposite energy transport changes in the ocean (and vice versa)?
+* How do changes in polar land ice impact the mean climate state and its response to atmospheric greenhouse gas increases?
+* 
+
 
 ## <i>The Aerial Hydrologic Cycle</i>
-The atmosphere moves water, in the form of vapor or cloud, from equator to pole.  One way to study how water moves through this aerial hydrologic cycle is through numerical water tracers, which allow water to be followed from its source region, through phase changes and movement by winds, to the point where it precipitates to the surface.  Studies using such water tracing methods show that 
-* How does the vertical distribution of temperature and moisture determine how the atmosphere 
-* What are the implications for interpretation of water isotopes?
+The atmosphere moves water, in the form of vapor or cloud, from equator to pole.  One way to study how water moves through this aerial hydrologic cycle is through numerical water tracers, which allow water to be followed from its source region, through phase changes and movement by winds, to the point where it precipitates to the surface.  Studies using such water tracing reveal a 
+* How does atmospheric moisture transport to the polar regions vary as the climate warms due to increased atmospheric greenhouse gases?  How does this transport vary seasonally, vertically, and regionally?
+* How do changes in atmospheric moisture transport
+* How does the vertical distribution of temperature and moisture (i.e. the moist isentropic structure of the atmosphere) determine how the atmosphere moves moisture from equator to pole?
+* What are the implications of the mechanism of poleward moisture transport for the interpretation of water isotopes, particularly those from high-latitude, high-altitude ice cores?
 
 
 ## <i>The Ocean's Role in Climate</i>
