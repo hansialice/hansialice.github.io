@@ -30,7 +30,7 @@ My (amazing) friend and colleague [Judy Twedt](http://www.judytwedt.com) and I e
 
 Another one of my contributions to outreach, also in collaboration with colleague Judy Twedt, was to design a computational module for the study of climate science optimized for use by high school students.  The module provides an under-the-hood introduction to scientific computing with [Python](https://www.python.org/doc/essays/blurb/), which is increasingly becoming the preferred coding language for data analysis in the Earth Sciences, with the most [basic physics of planetary energy balance](https://scied.ucar.edu/planetary-energy-balance-temperature-calculate) through the [Budyko-Sellers model](http://www.atmos.albany.edu/facstaff/brose/classes/ATM623_Spring2015/Notes/Lectures/Lecture14%20--%20Diffusive%20energy%20balance%20model.html).  We presented this module yearly at the [Expanding Your Horizons conference](https://www.eyhn.org), a series of workshops for high school girls to encourage their interest in STEM (Science, Technology, Engineering, and Mathematics) fields.  
 
-<img src="https://hansialice.github.io/images/EYHlogo.png" width="400"/>
+[<img src="https://hansialice.github.io/images/EYHlogo.png" width="400"/>](https://www.eyhn.org)
 
 I look forward to continuing educational outreach efforts in my new home city of Victoria, British Columbia.  Stay tuned!
 
