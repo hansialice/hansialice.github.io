@@ -49,7 +49,7 @@ Our primary research interests in the aerial hydrologic cycle concern the conseq
 ## <i>The Ocean's Role in Climate</i> 
 <img src="https://hansialice.github.io/images/PacificOcean.jpg" width="500"/>
 
-The Earth is an ocean planet -- over 70% of our planet's surface is covered in water.  The enormous heat capacity of ocean water moderates surface temperature fluctuations, while the movement of heat poleward by ocean currents decreases equator-to-pole temperature gradients and warms global surface temperatures, particularly in the mid- and high-latitudes.  If the latter ocean currents were to stop, many climate models predict that the Earth would rapidly become ice-covered, a climate phenomenon known as Snowball Earth.  
+The Earth is an ocean planet -- over 70% of our planet's surface is covered in water.  The enormous heat capacity of ocean water moderates surface temperature fluctuations, while the movement of heat poleward by ocean currents decreases equator-to-pole temperature gradients and warms global surface temperatures, particularly in the mid- and high-latitudes.  If the latter ocean currents were to stop, many climate models predict that the Earth would rapidly become ice-covered, a climate phenomenon known as [Snowball Earth](http://www.astronomy.com/news/2019/04/the-story-of-snowball-earth).  
 
 The ocean's fundamental role in the physical climate system, and its ability to support the temperate climate we have today, gives rise to a range of research questions, including the following:
 * How do changes in how the ocean transports energy poleward impact the Earth system's response to greenhouse gas forcing?
