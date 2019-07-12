@@ -15,12 +15,10 @@ Touching others through the arts is one way to inspire such awareness and action
 
 <img src="https://hansialice.github.io/images/OctopusGarden.jpeg" width="600"/>
 
-I spoke about this passion at All Hands on Deck, and, generally, how the arts can connect humans to the environment and inspire action in ways that science itself cannot.  Check out the talk below (click on the image below -- you'll be taken to youtube).
+I spoke about this passion at All Hands on Deck, and, generally, how the arts can connect humans to the environment and inspire action in ways that science itself cannot.  [You can check out the talk here](https://youtu.be/LBPQrrOHvQ0?t=3732).
 
 <a href="https://youtu.be/LBPQrrOHvQ0?t=3732" target="_blank"><img src="http://img.youtube.com/vi/LBPQrrOHvQ0/0.jpg" 
 alt="AllHandsOnDeckLogo" width="600" border="10"/></a>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBPQrrOHvQ0?start=3732" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## <i>K-12 Outreach</i>
 
