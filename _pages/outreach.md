@@ -26,13 +26,14 @@ As a graduate student at the Department of Atmospheric Sciences at the Universit
 
 My (amazing) friend and colleague [Judy Twedt](http://www.judytwedt.com) and I extended the work of the Outreach group in a couple of ways.  First, we designed a simple, portable demonstration of the greenhouse effect, namely the trapping of infrared radiation without trapping radiation from the visible part of the spectrum, using a [portable IR camera that can be plugged into a smartphone](https://www.flir.ca/products/flir-one-pro/).  The activity is similar to the (much less portable) [greenhouse effect demonstration performed by Dr. Iain Stewart for the BBC](https://www.youtube.com/watch?v=pJpK8orZqYU).  Our demonstration is now a staple of the Atmospheric Sciences Outreach group, and has been used to educate hundreds of students about the greenhouse effect and climate change.
 
-Another one of my contributions to outreach, also in collaboration with colleague Judy Twedt, was to design a Python module for the study of climate science for use by high school students.   
+Another one of my contributions to outreach, also in collaboration with colleague Judy Twedt, was to design a Python module for the study of climate science optimized for use by high school students.  The module links computing with mathematics and climate science to 
 
 ## <i>Understanding Climate Change</i>
 
 The Earth's climate is changing. Human activities, particularly the burning of fossil fuels and the associated greenhouse gas emissions that are increasing the infrared absorptivity of the atmosphere, are (at least) partly to blame.  Here are some of my favorite resources for understanding the earth system, climate, and climate change.
-RealClimate - a blog written by climate scientists describing the latest scientific findings and policy developments
-NASA Earth Observatory - a beautiful view (and scientific explication) of the Earth from space, updated daily
-Earth from Space - a PBS documentary on what satellites tell us about the Earth system with gorgeous visualizations
-Earth - an interactive, addictive visualization of the current state of the Earth's meteorological variables, including temperature, winds, precipitable water, and a bunch more
-IPCC AR5 Summary for Policymakers - the summary for policymakers from 5th assessment report by the Intergovernmental Panel on Climate Change (IPCC)
+
+** [RealClimate](http://www.realclimate.org) -- a blog written by climate scientists describing the latest scientific findings in climate research and related policy developments
+** [Skeptical Science](https://skepticalscience.com) -- a blog devoted to explaining the science of climate and climate change.  Their [Most Used Climate Myths and What the Science Really Says](https://skepticalscience.com/argument.php) is an excellent resource for combatting climate change denialism.  
+** [NASA Earth Observatory](https://earthobservatory.nasa.gov) -- a beautiful view (and scientific explication) of the Earth from space, updated daily
+** [Earth](https://earth.nullschool.net) - an interactive, addictive visualization of the current state of the Earth's meteorological variables, including temperature, winds, precipitable water, and a bunch more (click on the icon in the lower left-hand corner to bring up the menu; note that not all variables are directly observed, but may rather be indirectly inferred from other observed variables)
+** [IPCC AR5 Summary for Policymakers](https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_SPM_FINAL.pdf) - the summary for policymakers from the 5th assessment report by the Intergovernmental Panel on Climate Change (IPCC).  The new IPCC AR6 will be on its way in the next year, so stay tuned!
