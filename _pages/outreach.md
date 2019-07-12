@@ -15,6 +15,8 @@ Touching others through the arts is one way to inspire such awareness and action
 
 <img src="https://hansialice.github.io/images/OctopusGarden.jpeg" width="600"/>
 
+<img src="https://hansialice.github.io/images/Nautilus.jpg" width="600"/>
+
 I spoke about this passion at All Hands on Deck, and, generally, how the arts can connect humans to the environment and inspire action in ways that science itself cannot.  [You can check out the talk here](https://youtu.be/LBPQrrOHvQ0?t=3732).
 
 <a href="https://youtu.be/LBPQrrOHvQ0?t=3732" target="_blank"><img src="http://img.youtube.com/vi/LBPQrrOHvQ0/0.jpg" 
@@ -26,7 +28,11 @@ As a graduate student at the Department of Atmospheric Sciences at the Universit
 
 My (amazing) friend and colleague [Judy Twedt](http://www.judytwedt.com) and I extended the work of the Outreach group in a couple of ways.  First, we designed a simple, portable demonstration of the greenhouse effect, namely the trapping of infrared radiation without trapping radiation from the visible part of the spectrum, using a [portable IR camera that can be plugged into a smartphone](https://www.flir.ca/products/flir-one-pro/).  The activity is similar to the (much less portable) [greenhouse effect demonstration performed by Dr. Iain Stewart for the BBC](https://www.youtube.com/watch?v=pJpK8orZqYU).  Our demonstration is now a staple of the Atmospheric Sciences Outreach group, and has been used to educate hundreds of students about the greenhouse effect and climate change.
 
-Another one of my contributions to outreach, also in collaboration with colleague Judy Twedt, was to design a Python module for the study of climate science optimized for use by high school students.  The module links computing with mathematics and climate science to 
+Another one of my contributions to outreach, also in collaboration with colleague Judy Twedt, was to design a computational module for the study of climate science optimized for use by high school students.  The module provides an under-the-hood introduction to scientific computing with [Python](https://www.python.org/doc/essays/blurb/), which is increasingly becoming the preferred coding language for data analysis in the Earth Sciences, with the most [basic physics of planetary energy balance](https://scied.ucar.edu/planetary-energy-balance-temperature-calculate) through the [Budyko-Sellers model](http://www.atmos.albany.edu/facstaff/brose/classes/ATM623_Spring2015/Notes/Lectures/Lecture14%20--%20Diffusive%20energy%20balance%20model.html).  We presented this module yearly at the Expanding Your Horizons conference, a series of workshops for high school girls to encourage their interest in STEM (Science, Technology, Engineering, and Mathematics) fields.  
+
+<img src="https://hansialice.github.io/images/EYHlogo.png" width="400"/>
+
+I look forward to continuing educational outreach efforts in my new home city of Victoria, British Columbia.  Stay tuned!
 
 ## <i>Understanding Climate Change</i>
 
