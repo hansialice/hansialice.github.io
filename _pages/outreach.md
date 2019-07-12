@@ -11,7 +11,7 @@ Today, human actions are having a substantial impact on the environment.  Nowher
 
 In November 2018, I participated in [All Hands on Deck](https://www.media.mit.edu/events/allhandsondeck/), an event bringing together artists, activists, scientists, entrepreneurs, actors, filmmakers, legal experts, and other ocean connoisseurs, all with a passion to increase societal engagement with the ocean, and with it, the collective will to take action on issues endangering the marine world.  
 
-Touching others through the arts is one way to inspire such awareness and action.  For several years, one of my passions was knitting the ocean.  
+Touching others through the arts is one way to inspire such awareness and action.  For several years, one of my passions was knitting the ocean.  [A complete portfolio of my work is available here](https://www.flickr.com/photos/hansigurumi/albums/72157600956958660). 
 
 <img src="https://hansialice.github.io/images/OctopusGarden.jpeg" width="600"/>
 
