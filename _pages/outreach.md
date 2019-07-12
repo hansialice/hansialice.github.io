@@ -13,11 +13,12 @@ In November 2018, I participated in [All Hands on Deck](https://www.media.mit.ed
 
 Touching others through the arts is one way to inspire such awareness and action.  For several years, one of my passions was knitting the ocean.  
 
-<img src="https://hansialice.github.io/images/OctopusGarden.jpg" width="600"/>
+<img src="https://hansialice.github.io/images/OctopusGarden.jpeg" width="600"/>
 
 I spoke about this passion at All Hands on Deck, and, generally, how the arts can connect humans to the environment and inspire action in ways that science itself cannot.  Check out the talk below.
 
-https://youtu.be/LBPQrrOHvQ0?t=3732
+<a href="https://youtu.be/LBPQrrOHvQ0?t=3732" target="_blank"><img src="http://img.youtube.com/vi/LBPQrrOHvQ0/0.jpg" 
+alt="AllHandsOnDeckLogo" width="240" height="180" border="10"/></a>
 
 ## <i>K-12 Outreach</i>
 
