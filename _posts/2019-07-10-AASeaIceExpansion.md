@@ -1,6 +1,6 @@
 ---
 title: 'Why did Antarctic sea ice area expand even as the rest of the globe warmed?'
-date: 2019-07-19
+date: 2019-07-10
 permalink: /posts/2019/07/AASeaIceExpansion/
 tags:
   - Sea Ice
