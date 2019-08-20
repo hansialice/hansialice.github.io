@@ -21,7 +21,7 @@ We are seeking an engaged, enthusiastic individual for a postdoctoral research p
 
 The researcher will use output from state-of-the-art global climate models, reanalyses, and satellite/ground observations in her/his work, and may also run global climate model experiments.  The researcher will publish manuscripts in high-quality peer-reviewed journals, and present findings at national and international scientific conferences.  The position is supported as a collaboration between the Climate Lab in the [School of Earth and Ocean Sciences](https://www.uvic.ca/science/seos/) at the University of Victoria, and the [HiLAT project](https://www.hilat.org), funded by the US Department of Energy Office of Science.  
 
-<img src="https://hansialice.github.io/images/EastSookePark.jpg" alt="EastSookePark,Victoria" width="600"/>
+<img src="https://hansialice.github.io/images/WillowsBeach.jpg" alt="WillowsBeach,Victoria" width="600"/>
 
 The researcher will sit at the School of Earth and Ocean Sciences at the University of Victoria on beautiful Vancouver Island in British Columbia, and will have the opportunity to collaborate locally with scientists at the Canadian Centre for Climate Modelling and Analysis (CCCMa), and remotely with scientists at the US Department of Energy's Pacific Northwest National Laboratory (PNNL), Atmospheric Sciences and Global Change Division.  Funding is available for two years, with a possibility of extension to a third year.    
 
