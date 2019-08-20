@@ -25,13 +25,13 @@ The researcher will use output from state-of-the-art global climate models, rean
 The researcher will sit at the School of Earth and Ocean Sciences at the University of Victoria on beautiful Vancouver Island in British Columbia, and will have the opportunity to collaborate locally with scientists at the Canadian Centre for Climate Modelling and Analysis (CCCMa), and remotely with scientists at the US Department of Energy's Pacific Northwest National Laboratory (PNNL), Atmospheric Sciences and Global Change Division.  Funding is available for two years, with a possibility of extension to a third year.    
 
 
-**Minimum Qualifications:**
+#### Minimum Qualifications:
 * PhD in Atmospheric Sciences, Physical Oceanography, Applied Mathematics, or a related field.
 * Experience in analyzing large climate datasets, using Python, R, NCL, or another data analysis language of choice.
 * Understanding of coupled atmosphere-ocean dynamics in the extratropics.
 * Interest in polar climates and their sensitivity.
 
-**Preferred Qualifications:**
+#### Preferred Qualifications:
 * Experience running global climate models on parallel architectures.
 * Familiarity with the physics of sea ice.
 * Working knowledge of Fortran.  
