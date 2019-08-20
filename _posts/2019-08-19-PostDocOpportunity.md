@@ -15,7 +15,7 @@ I am looking for a postdoctoral researcher!  See the ad below.  Please get in to
 
 ---
 
-### Postdoctoral Position in High-Latitude Climate Dynamics at the University of Victoria (Victoria, BC, Canada)
+### Postdoctoral Position in High-Latitude Climate Dynamics at the University of Victoria
 
 We are seeking an engaged, enthusiastic individual for a postdoctoral research position investigating the dynamics of high-latitude climates.  The researcher will explore the workings of Arctic and Antarctic climate broadly, and may consider any (or all, time permitting) of the following scientific directions in high-latitude climate change:  (1) the impact of dynamic atmospheric processes during the shoulder seasons (fall and spring) on the onset of sea ice growth and melt; (2) the role of atmosphere-ocean coupled dynamic processes in amplifying polar climate change in winter; and (3) the impact of atmospheric moisture transport, and cloud feedback processes, in polar climate change through the seasons.  Other research directions on the dynamics of polar climate change are also possible.  
 
