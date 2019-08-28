@@ -22,20 +22,20 @@ We are seeking an engaged, enthusiastic individual for a postdoctoral research p
 The researcher will use output from state-of-the-art global climate models, reanalyses, and satellite/ground observations in her/his work, and may also run global climate model experiments.  The researcher will publish manuscripts in high-quality peer-reviewed journals, and present findings at national and international scientific conferences.  The position is supported as a collaboration between the Climate Lab in the [School of Earth and Ocean Sciences](https://www.uvic.ca/science/seos/) at the University of Victoria, and the [HiLAT project](https://www.hilat.org), funded by the US Department of Energy Office of Science.  
 
 <img src="https://hansialice.github.io/images/EastSookePark.jpg" alt="EastSookePark,Victoria" width="800"/>
-The researcher will sit at the School of Earth and Ocean Sciences at the University of Victoria on beautiful Vancouver Island in British Columbia, and will have the opportunity to collaborate locally with scientists at the Canadian Centre for Climate Modelling and Analysis (CCCMa), and remotely with scientists at the US Department of Energy's Pacific Northwest National Laboratory (PNNL), Atmospheric Sciences and Global Change Division.  Funding is available for two years, with a possibility of extension to a third year.    
+The researcher will sit at the School of Earth and Ocean Sciences at the University of Victoria on beautiful Vancouver Island in British Columbia, and will have the opportunity to collaborate locally with scientists at the Canadian Centre for Climate Modelling and Analysis (CCCma), and remotely with scientists at the US Department of Energy's Pacific Northwest National Laboratory (PNNL), Atmospheric Sciences and Global Change Division.  Funding is available for two years, with a possibility of extension to a third year.    
 
 
 #### Minimum Qualifications:
 * PhD in Atmospheric Sciences, Physical Oceanography, Applied Mathematics, or a related field.
 * Experience in analyzing large climate datasets, using Python, R, NCL, or another data analysis language of choice.
-* Understanding of coupled atmosphere-ocean dynamics in the extratropics.
-* Interest in polar climates and their sensitivity.
+* Understanding of coupled atmosphere-ocean dynamics in the extratropics, and demonstrated interest in polar climates.
 
 #### Preferred Qualifications:
 * Experience running global climate models on parallel architectures.
 * Familiarity with the physics of sea ice.
-* Working knowledge of Fortran.  
+* Familiarity working in Unix/Linux environments.
+* Some working knowledge of Fortran.  
 
 Please contact Hansi Singh (hansingh@uvic.ca) and Philip Rasch (philip.rasch@pnnl.gov) with questions.  
 
-***Interested applicants should submit a cover letter, up-to-date CV, and contact information for three professional references to Hansi Singh (hansingh@uvic.ca) by September 30, 2019.***
+***Interested applicants should submit a cover letter, up-to-date CV, and contact information for three professional references to Hansi Singh (hansingh@uvic.ca) by October 15, 2019.***
