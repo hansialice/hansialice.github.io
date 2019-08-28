@@ -38,4 +38,4 @@ The researcher will sit at the School of Earth and Ocean Sciences at the Univers
 
 Please contact Hansi Singh (hansingh@uvic.ca) and Philip Rasch (philip.rasch@pnnl.gov) with questions.  
 
-***Interested applicants should submit a cover letter, up-to-date CV, and contact information for three professional references to Hansi Singh (hansingh@uvic.ca) by October 15, 2019.***
+***Interested applicants should submit a cover letter, one-page statement of research interests, up-to-date CV, and contact information for three professional references to Hansi Singh (hansingh@uvic.ca) by October 15, 2019.***
