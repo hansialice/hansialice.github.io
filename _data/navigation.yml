@@ -5,6 +5,9 @@ main:
     
   - title: "Research Interests"
     url: /interests/
+    
+  - title: "The Group"
+    url: /people/
 
   - title: "Publications"
     url: /publications/
@@ -26,5 +29,6 @@ main:
   - title: "CV"
     url: /cv/
     
+
  # - title: "Guide"
  #   url: /markdown/
