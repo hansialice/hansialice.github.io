@@ -7,7 +7,7 @@ author_profile: true
 
 ## <i>The UVic Climate Dynamics Laboratory: Our Lovely Group Members</i>
 
-Our group has a wide range of scientific interests and expertise.  
+Our group has a wide range of scientific interests and expertise.  Meet each of them below.
 
 ### Dr. Ariel Morrison, Postdoctoral Fellow
 <img src="https://hansialice.github.io/images/Ariel.jpg" width="300"/>
@@ -20,6 +20,8 @@ Our group has a wide range of scientific interests and expertise.
 
 ### <i>(soon-to-be Dr.)</i> Wilton Aguiar-Filho, Visiting Scholar 
 <img src="https://hansialice.github.io/images/Will.jpg" width="300"/>
+
+Wilton is a physical oceanographer and a Ph.D. candidate in the Oceanographic Institute of the Federal University of the Rio Grande (FURG-Brazil). Wilton's research is focused on past and future changes in the large-scale ocean circulation and its effect on climate, with particular focus on the following topics: polar climate, past and future ocean overturning, paleoclimate, and the carbon cycle. Wilton is also passionate about landscape photographs, and you can check out his cool photos of Antarctica and Yellowstone National Park on his webpage:  https://willaguiar.github.io//
 
 ### Prof. Hansi Singh, PI
 <img src="https://hansialice.github.io/images/Hansi.jpg" width="300"/>
