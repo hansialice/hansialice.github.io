@@ -5,9 +5,9 @@ permalink: /people/
 author_profile: true
 ---
 
-## <i>The UVic Climate Dynamics Laboratory</i>
+## <i>The UVic Climate Dynamics Laboratory: Our Lovely Group Members</i>
 
-Our group members have a range of scientific interests and expertise.
+Our group has a wide range of scientific interests and expertise.  
 
 ### Dr. Ariel Morrison, Postdoctoral Fellow
 <img src="https://hansialice.github.io/images/Ariel.jpg" width="300"/>
